@@ -4,7 +4,7 @@
 
 The Graduate Student Project Showcase is a website dedicated to displaying all graduate student projects from our college. The platform provides a structured way to present students' work, track project progress, and recognize outstanding achievements. Each year, winning projects will be highlighted based on their innovation, impact, and contribution to the field.
 
-Features
+## Features
 
 Project Repository: A database of all submitted graduate projects categorized by year, department, and research area.
 
