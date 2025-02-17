@@ -12,11 +12,4 @@ The **Graduate Student Project Showcase** is a website dedicated to displaying a
 - **🔍 Search & Filter** – Users can search for projects based on keywords, faculty advisors, or categories.  
 - **📋 Interactive Dashboard** – Admins and faculty members can manage project entries, review submissions, and select winners.  
 
-## ⚙️ Technology Stack
-- **Frontend:** HTML, CSS, JavaScript (React or Vue.js)  
-- **Backend:** Node.js (Express) or Python (Django/Flask)  
-- **Database:** PostgreSQL or MongoDB  
-- **Hosting:** AWS/GCP/Azure or self-hosted on college servers  
-- **Version Control:** GitHub/GitLab integration for project repositories  
-
 ## 🚀 How to Submit a Project
