@@ -20,7 +20,7 @@ Search & Filter: Users can search for projects based on keywords, faculty adviso
 
 Interactive Dashboard: Admins and faculty members can manage project entries, review submissions, and select winners.
 
-Technology Stack
+## Technology Stack
 
 Frontend: HTML, CSS, JavaScript (React or Vue.js)
 
@@ -32,7 +32,7 @@ Hosting: AWS/GCP/Azure or self-hosted on college servers
 
 Version Control: GitHub/GitLab integration for project repositories
 
-How to Submit a Project
+## How to Submit a Project
 
 Register and log in to the website.
 
@@ -44,7 +44,7 @@ Await approval from faculty advisors.
 
 Once approved, the project will be listed on the website.
 
-How Winners Are Selected
+## How Winners Are Selected
 
 Each academic year, faculty members and a panel of reviewers will evaluate the projects based on:
 
@@ -58,7 +58,7 @@ Presentation Quality: Clarity and professionalism of the presentation.
 
 The top projects will be announced on the Annual Project Winners page.
 
-Future Enhancements
+## Future Enhancements
 
 Integration with College LMS for automatic project submission.
 
@@ -68,7 +68,7 @@ Comment & Feedback System for faculty and peers to provide reviews.
 
 Live Event Integration for annual project showcases.
 
-Contributors
+## Contributors
 
 Faculty Advisors: Dr. Salem Alqahtani, Dr. Mudassir, Dr. Ayman
 
@@ -76,6 +76,6 @@ Developers & Admins: [List of contributors]
 
 Graduate Students: [Project submitters]
 
-Contact & Support
+## Contact & Support
 
 For any queries, please contact [your college email/contact page].
