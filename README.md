@@ -48,9 +48,9 @@ The following table lists faculty members in the **Project Committee** along wit
 
 ## 🚀 How to Submit a Project  
 Each student must submit their project in **three components**:  
-- **Presentation** (PDF or PPT format)  
-- **Source Code** (GitHub repository link or ZIP file)  
-- **Project Documents** (Final report, user guide, and any supporting materials)
+- **Presentation** (PDF or PPT format) **[Use our template](#presentation-template)**  
+- **Source Code** (GitHub repository link **and** ZIP file)  
+- **Project Documents** (Final report **[Use template](#final-report-template)**, user guide, and supplementary materials)
 
 ### Submission Steps:
 1. **Create a Project Proposal**  
@@ -58,13 +58,16 @@ Each student must submit their project in **three components**:
    - Include **title, abstract, objectives, and expected outcomes**.  
 
 2. **Upload Project Materials**  
-   - **Presentation**: Submit a well-prepared **PDF/PPT file**.  
-   - **Source Code**: Upload the **GitHub repository link** or **attach a ZIP file**.  
-   - **Documentation**: Submit a **final report (PDF), user guide, and supplementary files**.  
+   - **Presentation**: Submit a well-prepared **PDF/PPT file**. **[Use the official template](#presentation-template)**  
+   - **Source Code**: Upload the **GitHub repository link** **and** **attach a ZIP file**.  
+   - **Documentation**: Submit a **final report (PDF)** **[Use the final report template](#final-report-template)** along with a user guide and supplementary files.  
 
 3. **Book a Presentation Slot**  
-   - Select an available date for **faculty review and project defense**.  
-   - Ensure all materials are **uploaded before the scheduled presentation**.  
+   - ✅ **Option 1: Google Form** → [Book Here](#booking-form)  
+   - ✅ **Option 2: GitHub Issues** → Open an **Issue** with your preferred date & time.  
+   - ✅ **Option 3: GitHub Discussions** → Reply to the **Presentation Slot Thread** with your details.  
+
+   📌 **All materials must be uploaded before the scheduled presentation.**  
 
 4. **Review & Approval**  
    - Faculty provides **feedback, suggestions, and grades**.  
