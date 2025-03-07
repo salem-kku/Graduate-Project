@@ -6,7 +6,8 @@
 3. [📋 Interactive Faculty & Admin Dashboard](#-interactive-faculty--admin-dashboard)  
 4. [🚀 How to Submit a Project](#-how-to-submit-a-project)  
 5. [📅 Important Deadlines & Schedule](#-important-deadlines--schedule)  
-6. [🎓 Who Can Use This System?](#-who-can-use-this-system)  
+6. [📄 Final Presentation Schedule](#-final-presentation-schedule)  
+7. [🎓 Who Can Use This System?](#-who-can-use-this-system)  
 
 ---
 
@@ -17,7 +18,7 @@ A centralized repository for storing and managing all materials related to gradu
 ---
 
 ## 📁 Browse Graduate Projects  
-Since GitHub does not support direct search functionality for projects, use the table below to navigate projects by semester:
+Use the table below to navigate projects by semester:
 
 | Academic Term | Project List |
 |--------------|-------------|
@@ -36,11 +37,11 @@ The following table lists faculty members in the **Project Committee** along wit
 
 | Faculty Member | Email | Ranking |
 |---------------|-------|---------|
-| Dr. John Smith | john.smith@university.edu | Chair |
-| Dr. Jane Doe | jane.doe@university.edu | Senior Reviewer |
-| Dr. Emily Brown | emily.brown@university.edu | Reviewer |
-| Prof. Mark Wilson | mark.wilson@university.edu | Reviewer |
-| Dr. Alice Green | alice.green@university.edu | Coordinator |
+| Dr. xx | john.smith@university.edu | Chair |
+| Dr. xx | jane.doe@university.edu | Reviewer |
+| Dr. xx | emily.brown@university.edu | Reviewer |
+| Dr. xx | mark.wilson@university.edu | Reviewer |
+| Dr. Salem Alqahtani | saboqdah@kku.edu.sa | Coordinator |
 
 📌 Faculty members are responsible for **reviewing proposals, grading projects, and scheduling presentations**.
 
@@ -86,6 +87,13 @@ Each student must submit their project in **three components**:
 🗓 **Final Project Submission**: [Specify Date]  
 🗓 **Presentation Week**: [Specify Dates]  
 🗓 **Project Grading & Review**: [Specify Dates]  
+
+---
+
+## 📄 Final Presentation Schedule  
+The **final schedule** for graduate project presentations is available **[here](https://github.com/YOUR-ORG/graduate-projects-schedule/blob/main/presentation_schedule.md)**.  
+
+📌 **Ensure you check the schedule regularly for updates!**
 
 ---
 
