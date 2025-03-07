@@ -19,17 +19,17 @@ A centralized repository for storing and managing all materials related to gradu
 ---
 
 ## 🔍 Search & Filter  
-Since GitHub does not support direct search functionality for projects, use the table below to navigate projects by year:
+Since GitHub does not support direct search functionality for projects, use the table below to navigate projects by semester:
 
-| Academic Year | Project List |
+| Academic Term | Project List |
 |--------------|-------------|
-| 2024        | [View Projects](#2024-projects) |
-| 2023        | [View Projects](#2023-projects) |
-| 2022        | [View Projects](#2022-projects) |
-| 2021        | [View Projects](#2021-projects) |
-| 2020        | [View Projects](#2020-projects) |
+| **Spring 2025**  | [View Projects](#spring-2025-projects) |
+| **Fall 2025**    | [View Projects](#fall-2025-projects) |
+| **Spring 2026**  | [View Projects](#spring-2026-projects) |
+| **Fall 2026**    | [View Projects](#fall-2026-projects) |
+| **Spring 2027**  | [View Projects](#spring-2027-projects) |
 
-📌 **Navigate through the repository folders** to access projects for each year.
+📌 **Navigate through the repository folders** to access projects for each term.
 
 ---
 
@@ -49,11 +49,34 @@ The following table lists faculty members in the **Project Committee** along wit
 ---
 
 ## 🚀 How to Submit a Project  
-1. **Create a Project Proposal** – Fill in the template and submit it for faculty approval.  
-2. **Upload Project Details** – Submit documentation, code repository links, and research materials.  
-3. **Book a Presentation Slot** – Select from available dates.  
-4. **Review & Approval** – Faculty provides feedback and grades the submission.  
-5. **Project Completion & Archival** – Successful projects are stored in the repository for future reference.  
+Each student must submit their project in **three components**:  
+- **Presentation** (PDF or PPT format)  
+- **Source Code** (GitHub repository link or ZIP file)  
+- **Project Documents** (Final report, user guide, and any supporting materials)
+
+### Submission Steps:
+1. **Create a Project Proposal**  
+   - Fill in the **project proposal template** and submit it for faculty approval.  
+   - Include **title, abstract, objectives, and expected outcomes**.  
+
+2. **Upload Project Materials**  
+   - **Presentation**: Submit a well-prepared **PDF/PPT file**.  
+   - **Source Code**: Upload the **GitHub repository link** or **attach a ZIP file**.  
+   - **Documentation**: Submit a **final report (PDF), user guide, and supplementary files**.  
+
+3. **Book a Presentation Slot**  
+   - Select an available date for **faculty review and project defense**.  
+   - Ensure all materials are **uploaded before the scheduled presentation**.  
+
+4. **Review & Approval**  
+   - Faculty provides **feedback, suggestions, and grades**.  
+   - Students may need to make **necessary revisions** based on faculty feedback.  
+
+5. **Project Completion & Archival**  
+   - Approved projects are **stored in the department repository**.  
+   - Outstanding projects may be **showcased for future students**.  
+
+📌 **Important:** Incomplete submissions will not be reviewed! Ensure all required materials are uploaded before the deadline.
 
 ---
 
