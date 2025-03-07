@@ -7,9 +7,9 @@
 4. **Project-2 Template for CS Department** – Presentation template for Project 2.  
 
 ### **Evaluation & Feedback Documents**
-5. **Project1 Examiner Quality Committee Suggestions** – Examiner feedback for Project 1 evaluation[link](https://docs.google.com/spreadsheets/d/1SrJuIJkNgRFvCzVlTdkG_oabnMjGK7qV/edit?usp=sharing&ouid=105737548125627118141&rtpof=true&sd=true).  
+5. **Project1 Examiner Quality Committee Suggestions** – Examiner feedback for Project 1 evaluation [link] (https://docs.google.com/spreadsheets/d/1SrJuIJkNgRFvCzVlTdkG_oabnMjGK7qV/edit?usp=sharing&ouid=105737548125627118141&rtpof=true&sd=true).  
 6. **Project1 Supervisor Quality Committee Suggestions** – Supervisor feedback for Project 1 assessment.  
-7. **Project2 Examiner Quality Committee Suggestions** – Examiner feedback for Project 2 evaluation[link](https://docs.google.com/spreadsheets/d/1JYbuUuH0y6FdoAnm-CcyN6bdd-WPfJqn/edit?usp=sharing&ouid=105737548125627118141&rtpof=true&sd=true).  
+7. **Project2 Examiner Quality Committee Suggestions** – Examiner feedback for Project 2 evaluation [link] (https://docs.google.com/spreadsheets/d/1JYbuUuH0y6FdoAnm-CcyN6bdd-WPfJqn/edit?usp=sharing&ouid=105737548125627118141&rtpof=true&sd=true).  
 8. **Project2 Supervisor Quality Committee Suggestions** – Supervisor feedback for Project 2 assessment.  
 
 ### **Supervisor Evaluation Sheets**
