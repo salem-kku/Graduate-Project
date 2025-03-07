@@ -6,16 +6,11 @@ This repository contains **detailed information** for **Project-2 (493CCS-3) and
 This document provides a **comprehensive overview** of the **Project-2 (493CCS-3) and Project-1 (492CCS-3)** for the **Department of Computer Science - Semester 2 (2025)**. It contains **detailed information on project teams, presentation schedules, venues, supervisors, examiners, and abstracts**.
 
 The document is structured as follows:
-- **Project-2 (493CCS-3)**: Focuses on the **implementation** of advanced computing topics such as **AI-based traffic management, blockchain for supply chain, distributed database optimization, and federated learning in IoT**.
-- **Project-1 (492CCS-3)**: Centers on the **understanding, analysis, and design** of projects including **cloud-native microservices, autonomous drone navigation, secure smart contracts, and real-time traffic prediction**.
+- **Project-2 (493CCS-3)**: Focuses on the **implementation** of advanced computing topics**.
+- **Project-1 (492CCS-3)**: Centers on the **understanding, analysis, and design** of projects**.
 
 Each project is listed with its **team members, scheduled presentation details, assigned faculty supervisors, and examiners**. The document also includes a **status tracker** to indicate whether a project is **confirmed, pending approval, or withdrawn**.
 
-📌 **Key Highlights:**
-- **Structured schedule** for all project presentations.
-- **Assigned venues** to ensure smooth execution.
-- **Faculty evaluation** to assess project quality.
-- **Guidelines** for students to submit materials on time.
 
 ---
 
